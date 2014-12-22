@@ -1,9 +1,11 @@
-python-namibia
-==============
+Introduction to Git & GitHub
+============================
 
-Collaborative website for Python Namibia conference attendees
+This project contains the [class project](https://python-namibia.github.io/) files for the [Introduction to Git & GitHub](http://python-namibia.org/event/introduction-git-and-github/) workshop at the Python Namibia conference.
 
-### Development
+### Local development
+
+To run this project locally, you'll need to have Ruby and RubyGems installed. Once you're good there, simply clone this project and run the following commands:
 
 ```
 bundle install
