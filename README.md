@@ -9,6 +9,6 @@ To run this project locally, you'll need to have Ruby and RubyGems installed. On
 
 ```
 bundle install
-jekyll serve
+bundle exec jekyll serve
 open http://localhost:4000
 ```
