@@ -279,7 +279,7 @@ Full-Width Styles
   top:0;
   right: 10px;
   z-index: 10;
-  padding: 10px 50px 10px 10px;
+  padding: 10px 50px 10px 20px;
   color: #fff;
   background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
   font-weight: 700;
@@ -370,7 +370,28 @@ Full-Width Styles
   background: #212121;
 }
 
+.participants-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 25px;
+}
 
+.participants-list li {
+  margin-bottom: 30px;
+}
+
+.participants-list img {
+  float: left;
+  margin-right: 30px;
+}
+
+.participants-list h3 {
+  padding-top: 5px;
+}
+
+.event-logos img {
+  margin-right: 30px;
+}
 
 /*******************************************************************************
 Small Device Styles

@@ -22,20 +22,23 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <p>The following attendees successfully completed the Introduction to Git &amp; GitHub course at the Python Namibia conference on February 2, 2015. Congratulations!</p>
+        <div class="event-logos">
+          <img src="images/python.png" width="200" />
+        </div>
 
+        <p>
+          The following attendees successfully completed the <a href="#">Introduction to Git &amp; GitHub</a> course at the
+          <a href="http://python-namibia.org/">Python Namibia</a> conference on February 2, 2015. Congratulations!
+        </p>
+
+        <ul class="participants-list">
         {% for person_hash in site.data.people %}
         {% assign person = person_hash[1] %}
-          <h3>
-            <a href="https://github.com/{{ person.username }}">
-              {{ person.name }}
-            </a>
-          </h3>
-
-          <p>
+          <li>
             <img src="https://github.com/{{ person.username}}.png" height="80" width="80"/>
-            {{ person.why }}
-          </p>
+            <h3><a href="https://github.com/{{ person.username }}">{{ person.name }} </a></h3>
+            <p>{{ person.why }}</p>
+          </li>
         {% endfor %}
       </section>
     </div>
