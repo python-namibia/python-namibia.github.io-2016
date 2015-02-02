@@ -377,7 +377,8 @@ Full-Width Styles
 }
 
 .participants-list li {
-  margin-bottom: 30px;
+  clear: both;
+  padding-bottom: 40px;
 }
 
 .participants-list img {
