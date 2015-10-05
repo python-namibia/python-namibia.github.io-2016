@@ -1,3 +1,5 @@
+.DS_Store
+
 *.gem
 *.rbc
 /.config
@@ -9,6 +11,7 @@
 /test/version_tmp/
 /tmp/
 _site/
+.sass-cache/
 
 ## Specific to RubyMotion:
 .dat*

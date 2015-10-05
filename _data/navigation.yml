@@ -1,0 +1,15 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: left
+
+- title: Sponsorship
+  url: "/sponsorship/"
+  side: left
+
+- title: Code of Conduct
+  url: "/code-of-conduct/"
+  side: left
