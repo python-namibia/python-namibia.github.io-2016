@@ -6,6 +6,10 @@
   url: "/about/"
   side: left
 
+- title: Travel
+  url: "/travel/"
+  side: left
+
 - title: Sponsorship
   url: "/sponsorship/"
   side: left
