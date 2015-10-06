@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-
+teaser: PyCon Namibia 2016 will take place from the 25th-29th January, at the University of Namibia, Windhoek for five days of talks, workshops and collaboration.
 widget1:
   title: "About Pycon Namibia"
   url: '/about'
@@ -13,9 +13,8 @@ widget2:
   image: /arrival.jpg
 widget3:
   title: "Get involved"
-  url: '#'
+  url: /take-part
   image: get-involved.jpg
   text: "PyCon Namibia invites you to take part - as a volunteer, a speaker, a sponsor or just as an attendee. Join us in Windhoek for the world's newest PyCon."
 permalink: /index.html
 ---
-kdldkldlkdlk

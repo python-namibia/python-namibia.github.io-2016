@@ -1,34 +1,59 @@
 ---
 layout: page-fullwidth
-title: "Code of conduct"
-permalink: "/code-of-conduct/"
+title: "Sponsorship"
+permalink: "/sponsorship/"
+teaser: Join this initiative of the Namibian Python community as a commercial sponsor, to help make PyCon Namibia the best possible experience for its attendees.
 ---
-PyCon Namibia is governed by a formal code of conduct. In short, participants are expected to
-contribute to an environment that is **open** and welcoming, **considerate** and **respectful**.
+Python Namibia 2015 was sponsored by some of the best-known names in the world of software development, including the Python Software Foundation, GitHub and Divio AG. For PyCon Namibia we are seeking even more sponsors locally and internationally.
 
-# The code of conduct
+## Suggested sponsorship levels
 
-All attendees are expected to show respect and courtesy to others throughout the conference and at all conference events.
+<div class="row">
+  <div class="large-6 columns">
+      <h3>Springbok (N$2500)</h3>
+      <ul>
+          <li>a thank-you in the programme booklet</li>
+          <li>your exhibition materials at the venue</li>
+          <li>your logo, and a link on our website</li>
+          <li>mentions in press releases conference news items, email and Twitter messages to the      community</li>
+        </ul>
+  </div>
+  <div class="large-6 columns">
+      <h3>Kudu (N$5000)</h3>
+      <p>Similar to <strong>Springbok</strong>, plus:</p>
+      <ul>
+        <li>a stand at the venue</li>
+      <li>a quarter-page advertisement in the programme</li>
+      <li>your message, your logo, and a link on our website</li>
+      <li>a ticket to the conference</li>
+      <li>more prominent mentions</li>
+    </ul>
+  </div>
+</div>
 
-The event is hosted by the University of Namibia, and attendees are expected to abide by the standards of behaviour set by the University.
+<div class="row">
+  <div class="large-6 columns">
+      <h3>Oryx (N$10000)</h3>
+      <p>Similar to <strong>Kudu</strong>, plus:</p>
+      <ul>
+      <li>a half-page advertisement in the conference programme</li>
+            <li>two tickets to the conference</li>
+            <li>even more prominent mentions</li>
+    </ul>
+  </div>
+  <div class="large-6 columns">
+      <h3>Eland (N$20000)</h3>
+      <p>Similar to <strong>Oryx</strong>, plus:</p>
+      <ul>
 
-All communication should be appropriate for a general audience, which will include people from many different backgrounds.
+<li>a full-page advertisement in the conference programme</li>
+<li>three tickets to the conference</li>
+<li>very prominent mentions</li>
 
-Sexual language and imagery are not welcome.
+    </ul>
+  </div>
+</div>
 
-PyCon Namibia will not tolerate:
+## How to sponsor
 
-* sexist, racist or other exclusionary language, imagery or behaviour
-* intimidating or threatening language or behaviour
-* insulting or unpleasant language or behaviour
-* harassment or unwanted attention of any form
-
-## If there is a problem
-
-If you are troubled by the behaviour of another attendee at the conference, or are concerned that another attendee may be in distress, please speak immediately to any member of conference staff.
-
-Your concern will be heard in confidence and taken seriously.
-
-Conference staff - volunteers and organisers - will be on hand throughout the conference. Any concern, whatever it is, will be immediately passed on to a member of the conference committee.
-
-The committee will investigate promptly and if necessary will take appropriate action.
+Information about how to sponsor us will be posted here soon.

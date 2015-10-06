@@ -10,11 +10,15 @@ format: blog-index
 </div><!-- /#header-home -->
 
 
-{% comment %}
-*
-* First check, if widget is empty or not by checking if there is a title
-*
-{% endcomment %}
+	{% if page.teaser %}
+    <div class="row t30">
+  	<p class="teaser">
+  		{{ page.teaser }}
+  	</p>
+    </div>
+	{% endif %}
+
+
 <div class="row t60">
 	{% if page.widget1.title %}
 		{% include frontpage-widget widget=page.widget1 %}

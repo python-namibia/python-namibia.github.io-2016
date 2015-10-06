@@ -14,6 +14,10 @@
   url: "/sponsorship/"
   side: left
 
+- title: Take part
+  url: "/take-part/"
+  side: left
+
 - title: Code of Conduct
   url: "/code-of-conduct/"
   side: left
