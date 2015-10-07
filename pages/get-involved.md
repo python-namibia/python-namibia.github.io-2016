@@ -10,10 +10,9 @@ A PyCon can't happen without the participation of the community, at all levels.
 
 ### Attend
 
-Just by taking part as an attendee, you'll be making a valuable contribution.
-[Windhoek is a very special place]({{site.baseurl}}/about/#venue) and the welcome you will receive is second to
-none. By attending you will help support the budding open source community in
-Africa.
+Just by taking part as an attendee, you'll be making a valuable contribution. [Windhoek is a very
+special place](/about/#venue) and the welcome you will receive is second to none.
+By attending you will help support the budding open source community in Africa.
 
 <div class="row">
   <div class="large-6 columns">
@@ -29,7 +28,7 @@ Africa.
       <p>The conference will be attended by 180 motivated delegates from the
       Python and wider software community. Sponsoring will put you in the
       spotlight of a very appreciative audience. Please take a look at <a
-      href="{{site.baseurl}}/sponsorship/">the information for sponsors
+      href="/sponsorship/">the information for sponsors
       page</a>.</p>
 
   </div>
@@ -40,7 +39,7 @@ Africa.
       <h3>Speak</h3>
 
       <p>Whether you are a seasoned conference speaker or have never given a
-      talk before we would love for you to speak at pycon namibia. A call for
+      talk before we would love to hear your proposal for a talk at PyCon Namibia. A call for
       papers will be circulated shortly.</p>
 
   </div>
@@ -49,7 +48,7 @@ Africa.
 
       <p>Have a great way of introducing version control? Want to help others
       learn how to build a Django application? We would be delighted to have
-      your workshop at pycon namibia. As for the talks, a call for proposals
+      your workshop at PyCon Namibia. As for the talks, a call for proposals
       will be circulated soon.</p>
     </ul>
   </div>
