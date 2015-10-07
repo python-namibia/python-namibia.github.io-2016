@@ -1,14 +1,50 @@
-Introduction to Git & GitHub
-============================
 
-This project contains the [class project](https://python-namibia.github.io/) files for the [Introduction to Git & GitHub](http://python-namibia.org/event/introduction-git-and-github/) workshop at the Python Namibia conference.
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
 
-### Local development
+## A Responsive Jekyll Theme: *Feeling Responsive*
 
-To run this project locally, you'll need to have Ruby and RubyGems installed. Once you're good there, simply clone this project and run the following commands:
+Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
 
-```
-bundle install
-bundle exec jekyll serve
-open http://localhost:4000
-```
+To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
+
+And what license is *Feeling Responsive* released under? [This one][2].
+
+
+
+## Why use this theme?
+
+Feeling Responsive is heavily customizable.
+
+1. Language-Support :)
+2. Optimized for speed and it's responsive.
+3. Built on Foundation Framework.
+4. Six different Headers.
+5. Customizable navigation, footer,...
+
+**[More ›][3]**
+
+
+
+## Video Tutorial
+
+Click the image to [watch the YouTube-Video-Tutorial][4].
+
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+
+
+
+
+
+
+
+
+ [1]: http://phlow.github.io/feeling-responsive/documentation/
+ [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+ [3]: http://phlow.github.io/feeling-responsive/info/
+ [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
+ [5]: #
+ [6]: #
+ [7]: #
+ [8]: #
+ [9]: #
+ [10]: #

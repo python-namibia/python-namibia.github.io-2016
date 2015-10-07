@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 20 20">
+<g fill="#ffce00" transform="translate(10	, 10)"><!-- ty=(87*sqrt(13)-281)/2 -->
+	<g id="r4">
+		<path id="r" d="M0,10 1.552914,5.795555H-1.552914z"/><!-- x2=6*sin(15deg); y2=6*cos(15deg) -->
+		<use xlink:href="#r" transform="rotate(90)"/>
+		<use xlink:href="#r" transform="rotate(180)"/>
+		<use xlink:href="#r" transform="rotate(270)"/>
+	</g>
+	<use xlink:href="#r4" transform="rotate(30)"/>
+	<use xlink:href="#r4" transform="rotate(60)"/>
+	<circle r="4.5"/>
+</g>
+</svg>
