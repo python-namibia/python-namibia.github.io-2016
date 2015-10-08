@@ -1,6 +1,13 @@
 ---
 layout: frontpage
-teaser: PyCon Namibia 2016 will take place from the 25th-29th January, at the University of Namibia, Windhoek for five days of talks, workshops and collaboration.
+teaser: PyCon Namibia 2016 will take place from the 25th-29th January, at the
+        University of Namibia, Windhoek for five days of talks, workshops and
+        collaboration. This conference is part of a major joint project being
+        undertaken by the <a href="http://www.unam.na/">University of
+        Namibia</a> and the <a
+        href="http://www.cardiff.ac.uk/phoenix-project">Cardiff University
+        Phoenix Project</a> and is the fruit of a collaboration between the two
+        Universities and the international Python community.
 widget1:
   title: "About Pycon Namibia"
   url: '/about'
