@@ -3,8 +3,11 @@ layout: page-fullwidth
 title: "About PyCon Namibia"
 permalink: "/about/"
 ---
-PyCon Namibia is an initiative of the Namibian Python community - software professionals,
-scientists, academics and students, who believe in the power of open-source software.
+PyCon Namibia is an initiative of the Namibian Python community - software
+professionals, scientists, academics and students, who believe in the power of
+open-source software. This initiative is supported by the [University of
+Namibia](http://www.unam.na/) and the [Cardiff University Phoenix
+Project](http://www.cardiff.ac.uk/phoenix-project).
 
 The community has already been host to a successful Python conference, [Python Namibia in February 2015](http://python-namibia.org). 2016's event will be nearly three times the size, and represents the community's ambitions to establish Python as the language of choice for its growing software industry.
 
