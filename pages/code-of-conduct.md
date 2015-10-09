@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Code of conduct"
 permalink: "/code-of-conduct/"
 ---
