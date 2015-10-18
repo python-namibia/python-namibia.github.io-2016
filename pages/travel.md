@@ -20,6 +20,18 @@ Windhoek has several direct daily connections to Frankfurt, Johannesburg and sev
 cities. For most international travellers connections via Frankfurt or Johannesburg are most
 convenient.
 
+## Expected cost of attendance
+
+Please see sites such as [Skyscanner](http://www.skyscanner.net) or
+[Rome2Rio](http://www.rome2rio.com) to find flights and fares.
+
+* return flights to Windhoek Hosea Kutako (WDH) from Europe: £600-700/£810-950/US$920-1080
+* accommodation (7 nights): £150/€205/$231
+* subsistence: £60/€80/US$95
+* conference ticket: to be confirmed (< £100/€135/US$155)
+
+Recommended conference hotels will be listed soon.
+
 ## Health and vaccinations
 
 Medical services in Namibia are of a high standard.
