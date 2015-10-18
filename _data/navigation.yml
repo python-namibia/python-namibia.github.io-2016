@@ -14,6 +14,10 @@
   url: "/sponsorship/"
   side: left
 
+- title: Supporters
+  url: "/supporters/"
+  side: left
+
 - title: Take part
   url: "/take-part/"
   side: left
