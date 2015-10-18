@@ -5,68 +5,24 @@ permalink: "/supporters/"
 teaser: PyCon Namibia is possible through the collaboration and support of organisations and
   individuals in Namibia and across the world.
 widget1:
-  title: "University of Namiba"
+  title: "University of Namibia"
+  url  : "http://www.unam.edu.na/"
   image: unam-logo.png
-  text: "The University of Namibia is "
+  text: "The University of Namibia is the largest higher education establishment
+  in Namibia. The main campus is located in Windhoek where the conference takes
+  place."
 widget2:
   title: "Phoenix Project"
-  text: 'Namibia is fairly easy to reach from most places. It’s <em>visitor-friendly</em>, and international attendees should consider allocating some extra time to explore.'
+  url  : "http://www.cardiff.ac.uk/phoenix-project"
+  text: "The Phoenix Project is a partnership between Cardiff University and the
+  University of Namibia. The project provides opportunities for development and
+  shared learning."
   image: /cardiff-university.png
 widget3:
   title: "Django Society UK"
+  url: "/djangouk/"
   image: /django-society-logo.png
-  text: 'PyCon Namibia will bring together 180 professional software developers, scientists, academics and students, from Namibia and around the world.'
+  text: "The Django Society UK is a newly formed society aiming to promote and
+  support the use of Python and Django in the UK. The PyCon Namibia committee
+  includes two members of the Django Society UK."
 ---
-Python Namibia 2015 was sponsored by some of the best-known names in the world of software development, including the Python Software Foundation, GitHub and Divio AG. For PyCon Namibia we are seeking even more sponsors locally and internationally.
-
-## Suggested sponsorship levels
-
-<div class="row">
-  <div class="large-6 columns">
-      <h3>Springbok (N$2500)</h3>
-      <ul>
-          <li>a thank-you in the programme booklet</li>
-          <li>your exhibition materials at the venue</li>
-          <li>your logo, and a link on our website</li>
-          <li>mentions in press releases conference news items, email and Twitter messages to the      community</li>
-        </ul>
-  </div>
-  <div class="large-6 columns">
-      <h3>Kudu (N$5000)</h3>
-      <p>Similar to <strong>Springbok</strong>, plus:</p>
-      <ul>
-        <li>a stand at the venue</li>
-      <li>a quarter-page advertisement in the programme</li>
-      <li>your message, your logo, and a link on our website</li>
-      <li>a ticket to the conference</li>
-      <li>more prominent mentions</li>
-    </ul>
-  </div>
-</div>
-
-<div class="row">
-  <div class="large-6 columns">
-      <h3>Oryx (N$10000)</h3>
-      <p>Similar to <strong>Kudu</strong>, plus:</p>
-      <ul>
-      <li>a half-page advertisement in the conference programme</li>
-            <li>two tickets to the conference</li>
-            <li>even more prominent mentions</li>
-    </ul>
-  </div>
-  <div class="large-6 columns">
-      <h3>Eland (N$20000)</h3>
-      <p>Similar to <strong>Oryx</strong>, plus:</p>
-      <ul>
-
-<li>a full-page advertisement in the conference programme</li>
-<li>three tickets to the conference</li>
-<li>very prominent mentions</li>
-
-    </ul>
-  </div>
-</div>
-
-## How to sponsor
-
-Information about how to sponsor us will be posted here soon. In the meantime if you'd like to know more, email us on [pycon.namibia@gmail.com](mailto:pycon.namibia@gmail.com).
