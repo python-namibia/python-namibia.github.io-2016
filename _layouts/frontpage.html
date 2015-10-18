@@ -34,3 +34,18 @@ format: blog-index
 		{% include frontpage-widget widget=page.widget3 %}
 	{% endif %}
 </div><!-- /.row -->
+
+{% unless site.posts == empty %}
+    <div class="row t30 b20 homepage">
+        <div class="small-12 columns">
+            <h2>News</h2>
+            <ul>
+                {% for post in site.posts limit:5 %}
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+                {% endfor %}
+            <ul>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+
+{% endunless %}
