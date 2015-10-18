@@ -8,11 +8,26 @@ A PyCon can't happen without the participation of the community, at all levels.
 
 ## How to get involved
 
-### Attend
+<div class="row">
+  <div class="large-6 columns">
+      <h3>Attend</h3>
 
-Just by taking part as an attendee, you'll be making a valuable contribution. [Windhoek is a very
-special place](/about/#venue) and the welcome you will receive is second to none.
-By attending you will help support the budding open source community in Africa.
+      <p>Just by taking part as an attendee, you'll be making a valuable contribution. <a
+      href="/about/venue">Windhoek is a very special place</a> and the welcome you will receive is
+      second to none. By attending you will help support the budding open source community in
+      Africa. </p>
+
+  </div>
+  <div class="large-6 columns">
+      <h3>Join our email list</h3>
+
+      <p>Follow developments, take part in discussions, find out who else is going and ask your
+      questions on <a href="https://groups.google.com/forum/#!forum/pycon-namibia-public">our email
+      list</a>.</p>
+
+  </div>
+</div>
+
 
 <div class="row">
   <div class="large-6 columns">
