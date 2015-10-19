@@ -9,5 +9,17 @@ a proposal](https://docs.google.com/forms/d/1rJ3uQSj6-eC9-slrAV1NGhc2BrxgdGzaQBh
 
 We welcome your suggestions, and if you'd like to make more than one proposal, please do.
 
+We're interested in Python-related talks on:
+
+* science
+* education
+* mathematics
+* the web, including Django and other applications
+* programming techniques and practices
+* community
+* robotics and hardware
+* software libraries and tools
+* ... and anything else!
+
 If you have never spoken at a conference, a PyCon is a great place to do this for the first time.
 The audience is always friendly and encouraging.
