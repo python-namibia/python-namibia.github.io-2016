@@ -53,18 +53,15 @@ A PyCon can't happen without the participation of the community, at all levels.
   <div class="large-6 columns">
       <h3>Speak</h3>
 
-      <p>Whether you are a seasoned conference speaker or have never given a
-      talk before we would love to hear your proposal for a talk at PyCon Namibia. A call for
-      papers will be circulated shortly.</p>
+      <p>Whether you are a seasoned conference speaker or have never given a talk before we would
+      love to <a href="/cfp/">hear your proposal for a talk</a> at PyCon Namibia. A call for papers
+      will be circulated shortly.</p>
 
   </div>
   <div class="large-6 columns">
       <h3>Run a workshop</h3>
 
-      <p>Have a great way of introducing version control? Want to help others
-      learn how to build a Django application? We would be delighted to have
-      your workshop at PyCon Namibia. As for the talks, a call for proposals
-      will be circulated soon.</p>
-    </ul>
-  </div>
-</div>
+      <p>Have a great way of introducing version control? Want to help others learn how to build a
+      Django application? We would be delighted to <a href="/cfp/">hear your proposal for a
+      workshop</a> at PyCon Namibia. As for the talks, a call for proposals will be circulated
+      soon.</p> </ul> </div> </div>
