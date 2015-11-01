@@ -56,10 +56,16 @@ format: post
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 
-
 	{% if page.sidebar == "right" %}
 	<div class="medium-4 columns">
 		{% include sidebar %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
+
+	{% if page.sidebar == "tickets" %}
+	<div class="medium-4 columns">
+		{% include sidebar_tickets %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
 </div><!-- /.row -->
