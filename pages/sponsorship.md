@@ -11,6 +11,7 @@ Python Namibia 2015 was sponsored by some of the best-known names in the world o
 <div class="row">
   <div class="large-6 columns">
       <h3>Springbok (N$2500)</h3>
+      <p><em>approximately £117 or €165 or US$180</em></p>
       <ul>
           <li>a thank-you in the programme booklet</li>
           <li>your exhibition materials at the venue</li>
@@ -20,6 +21,7 @@ Python Namibia 2015 was sponsored by some of the best-known names in the world o
   </div>
   <div class="large-6 columns">
       <h3>Kudu (N$5000)</h3>
+      <p><em>approximately £234 or €329 or US$362</em></p>
       <p>Similar to <strong>Springbok</strong>, plus:</p>
       <ul>
         <li>a stand at the venue</li>
@@ -34,6 +36,7 @@ Python Namibia 2015 was sponsored by some of the best-known names in the world o
 <div class="row">
   <div class="large-6 columns">
       <h3>Oryx (N$10000)</h3>
+      <p><em>approximately £468 or €657 or US$362</em></p>
       <p>Similar to <strong>Kudu</strong>, plus:</p>
       <ul>
       <li>a half-page advertisement in the conference programme</li>
@@ -43,6 +46,7 @@ Python Namibia 2015 was sponsored by some of the best-known names in the world o
   </div>
   <div class="large-6 columns">
       <h3>Eland (N$20000)</h3>
+      <p><em>approximately £968 or €1314 or US$1446</em></p>
       <p>Similar to <strong>Oryx</strong>, plus:</p>
       <ul>
 

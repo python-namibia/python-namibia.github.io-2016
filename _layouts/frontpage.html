@@ -34,3 +34,8 @@ format: blog-index
 		{% include frontpage-widget widget=page.widget3 %}
 	{% endif %}
 </div><!-- /.row -->
+
+
+{% if content %}
+  {{ content }}
+{% endif %}
