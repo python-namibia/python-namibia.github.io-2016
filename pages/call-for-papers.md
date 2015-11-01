@@ -22,4 +22,6 @@ We're interested in Python-related talks on:
 * ... and anything else!
 
 If you have never spoken at a conference, a PyCon is a great place to do this for the first time.
-The audience is always friendly and encouraging.
+You'll find a friendly and encouraging audience. We're interested in receiving proposals aimed at
+people with all levels of experience, and talks and workshops aimed at beginners will be just as
+valuable as advanced sessions.

@@ -26,7 +26,10 @@ form](https://docs.google.com/forms/d/1FalQthYyMzaS7qeCMrNLNw-OEJhGuHgSjIgLdB0Ln
 Deadline for submissions: end of 15th November UTC. Applicants will be notified of funding
 decisions as soon as possible.
 
-Attendees who are giving talks or running workshops or other activities will be strongly favoured.
+Attendees who are giving [talks or running workshops or other activities](/cfp/) will be strongly
+favoured. The committee will welcome applications from attendees from all backgrounds and levels
+of skill and experience - the grants are open to all, not just to advanced or experienced
+programmers.
 
 Please note that funds are not unlimited, and the Django Society will not be able to meet all
 requests for funding, or meet every request in full.
