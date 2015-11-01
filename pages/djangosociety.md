@@ -13,8 +13,8 @@ Namibia](http://python-namibia.org), and are providing organisational support to
 
 ## Grants for travel
 
-The Society is also offering grants to help international attendees travel to Namibia to
-participate in PyCon Namibia.
+The Society has allocated a fund of **£5000** to provide grants to help international attendees
+travel to Namibia to participate in PyCon Namibia.
 
 For details of likely costs of travel, accommodation and subsistence, please see [travel](/travel).
 
