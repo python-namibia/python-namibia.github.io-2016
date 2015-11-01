@@ -32,3 +32,6 @@
   url: "/code-of-conduct/"
   side: left
 
+- title: Tickets
+  url: "/tickets/"
+  side: left
