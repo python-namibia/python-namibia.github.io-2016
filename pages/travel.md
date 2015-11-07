@@ -28,7 +28,11 @@ Please see sites such as [Skyscanner](http://www.skyscanner.net) or
 * return flights to Windhoek Hosea Kutako (WDH) from Europe: £600-700/£810-950/US$920-1080
 * accommodation (7 nights): £150/€205/$231
 * subsistence: £60/€80/US$95
-* conference ticket: to be confirmed (< £100/€135/US$155)
+* [conference ticket](/tickets): £90/N$1920/€125/US$135 for an *Individual*
+  ticket
+
+If you'd like to attend but would need financial assistance to get to Namibia,
+please see [travel grants](/djangosociety).
 
 Recommended conference hotels will be listed soon.
 
