@@ -60,4 +60,4 @@ Python Namibia 2015 was sponsored by some of the best-known names in the world o
 
 ## How to sponsor
 
-Information about how to sponsor us will be posted here soon. In the meantime if you'd like to know more, email us on [pycon.namibia@gmail.com](mailto:pycon.namibia@gmail.com).
+Interested in sponsoring? Email us on [pycon.namibia@gmail.com](mailto:pycon.namibia@gmail.com).
