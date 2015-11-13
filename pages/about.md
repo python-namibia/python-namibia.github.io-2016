@@ -27,27 +27,26 @@ The community has already been host to a successful Python conference, [Python N
 
 <div class="row">
   <div class="large-4 columns">
-      <h3>Monday & Tuesday</h3>
-      Talks on Python and related subjects of all kinds. Our call for papers will open soon.
+      <h3>Monday & Thursday</h3>
+      Technical workshops & collaboration.
   </div>
   <div class="large-4 columns">
-      <h3>Wednesday & Thursday</h3>
-      Technical workshops & collaboration. We'll have introductions to all kinds of Python-related technologies, code sprints and more.
+      <h3>Tuesday & Wednesday</h3>
+      Talks on Python and related subjects of all kinds.
   </div>
-
   <div class="large-4 columns">
       <h3>Friday: excursion</h3>
       A social event to see a little bit of Namibia beyond the city of Windhoek.
   </div>
 </div>
 
-## Tickets
-
-Ticket sales will open soon, to help plan your travel here are the prices (in
-GBP):
-
-- Student: £45
-- Individual: £90
-- Coorporate: £135
-
-Ticket sales will begin **very** soon.
+<div class="row">
+  <div class="large-6 columns">
+    <h3>Proposals</h3>
+    <a href="/cfp">Our call for proposals for talks and other activities is open.</a>
+  </div>
+  <div class="large-6 columns">
+    <h3>Tickets</h3>
+    <a href="/tickets">Tickets are now on sale.</a>
+  </div>
+</div>

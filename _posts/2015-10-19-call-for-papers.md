@@ -1,10 +1,14 @@
 ---
 layout: page
-title: "Call for papers!"
+title: "Call for proposals"
 date: 2015-10-19
-excerpt: "The call for papers expires on 2015-11-30."
+excerpt: "The call for proposals expires on the 15th December 2015."
 ---
-The call for papers is now open and will close on the 31st of November.
+The call for papers is now open and will close on the 15th December 2015.
 
-If you would like to propose a talk and/or a workshop please fill in [this
-webform](https://docs.google.com/forms/d/1rJ3uQSj6-eC9-slrAV1NGhc2BrxgdGzaQBhTX0wsZ-E/viewform).
+Join us in Windhoek, and take part by giving a talk or leading a workshop - or something else
+entirely.
+
+We'd love to have your proposals and suggestions.
+
+See our [Call for proposals](/cfp/) for more.

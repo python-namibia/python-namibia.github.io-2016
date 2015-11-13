@@ -24,7 +24,7 @@
   url: "/take-part/"
   side: left
   dropdown:
-  - title: Call for Papers
+  - title: Call for Proposals
     url: "/cfp/"
     side: left
 
