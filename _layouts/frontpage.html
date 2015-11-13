@@ -35,13 +35,20 @@ format: blog-index
 	{% endif %}
 </div><!-- /.row -->
 
+{% if content %}
+  {{ content }}
+{% endif %}
+
 {% unless site.posts == empty %}
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
-            <h2>News</h2>
+            <h2><a href="/news/">News</a></h2>
             <ul>
                 {% for post in site.posts limit:5 %}
-                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+                    {% if post.title != "" %}
+                        <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+                        {{post.excerpt}}</li>
+                    {% endif %}
                 {% endfor %}
             <ul>
         </div><!-- /.small-12.columns -->
@@ -49,7 +56,3 @@ format: blog-index
 
 
 {% endunless %}
-
-{% if content %}
-  {{ content }}
-{% endif %}

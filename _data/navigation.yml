@@ -35,3 +35,7 @@
 - title: Tickets
   url: "/tickets/"
   side: left
+
+- title: News
+  url: "/news/"
+  side: left
