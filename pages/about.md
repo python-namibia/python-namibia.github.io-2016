@@ -30,6 +30,7 @@ The community has already been host to a successful Python conference, [Python N
       <h3>Monday & Thursday</h3>
       Technical workshops & collaboration.
   </div>
+
   <div class="large-4 columns">
       <h3>Tuesday & Wednesday</h3>
       Talks on Python and related subjects of all kinds.
