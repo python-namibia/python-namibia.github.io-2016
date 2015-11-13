@@ -36,7 +36,7 @@ Python Namibia 2015 was sponsored by some of the best-known names in the world o
 <div class="row">
   <div class="large-6 columns">
       <h3>Oryx (N$10000)</h3>
-      <p><em>approximately £468 or €657 or US$362</em></p>
+      <p><em>approximately £468 or €657 or US$724</em></p>
       <p>Similar to <strong>Kudu</strong>, plus:</p>
       <ul>
       <li>a half-page advertisement in the conference programme</li>
@@ -58,6 +58,8 @@ Python Namibia 2015 was sponsored by some of the best-known names in the world o
   </div>
 </div>
 
+
+
 ## How to sponsor
 
-Interested in sponsoring? Email us on [pycon.namibia@gmail.com](mailto:pycon.namibia@gmail.com).
+Interested in sponsoring? Email us: [pycon.namibia@gmail.com](mailto:pycon.namibia@gmail.com).
