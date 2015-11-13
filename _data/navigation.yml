@@ -6,26 +6,32 @@
   url: "/about/"
   side: left
 
-- title: Travel
-  url: "/travel/"
-  side: left
+  dropdown:
+  - title: Travel
+    url: "/travel/"
+    side: left
 
 - title: Sponsorship
   url: "/sponsorship/"
   side: left
+  dropdown:
 
-- title: Supporters
-  url: "/supporters/"
-  side: left
+  - title: Supporters
+    url: "/supporters/"
+    side: left
 
 - title: Take part
   url: "/take-part/"
   side: left
+  dropdown:
+  - title: Call for Papers
+    url: "/cfp/"
+    side: left
 
 - title: Code of Conduct
   url: "/code-of-conduct/"
   side: left
 
-- title: Call for Papers
-  url: "/cfp/"
+- title: Tickets
+  url: "/tickets/"
   side: left

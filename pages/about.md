@@ -43,4 +43,11 @@ The community has already been host to a successful Python conference, [Python N
 
 ## Tickets
 
-Ticket sales will open soon, with rates for individuals, corporate attendees and students.
+Ticket sales will open soon, to help plan your travel here are the prices (in
+GBP):
+
+- Student: £45
+- Individual: £90
+- Coorporate: £135
+
+Ticket sales will begin **very** soon.

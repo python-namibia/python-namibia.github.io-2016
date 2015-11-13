@@ -21,10 +21,9 @@
           <div class="medium-6 large-3 columns">
             <h5 class="shadow-black">Contact</h5>
 		        <ul>
-		            <li>email us at <a href="mailto:pycon.namibia@gmail.com">pycon.namibia@gmail.com</a></li>
+		            <li>email <a href="mailto:pycon.namibia@gmail.com">pycon.namibia@gmail.com</a></li>
+		            <li>join our <a href="https://groups.google.com/forum/#!forum/pycon-namibia-public">email list</a></li>
 		            <li><a href="http://twitter.com/pythonnamibia">follow us on Twitter</a></li>
-		            <li><a href="http://twitter.com/PhoenixCUni">follow the Phoenix Project
-                    on Twitter</a></li>
 		        </ul>
 
           </div><!-- /.large-3.columns -->
@@ -34,7 +33,7 @@
 		        <ul>
 		            <li>the <a href="http://unam.edu.na">University of Namibia</a></li>
 		            <li>the <a href="http://www.cardiff.ac.uk/phoenix-project">Phoenix Project, Cardiff University</a></li>
-		            <li>the Django UK society</li>
+		            <li>the Django Society UK</li>
 		        </ul>
 
           </div><!-- /.large-3.columns -->

@@ -5,6 +5,10 @@ layout: compress
 <html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
 <head>
 	{% include head %}
+  {% if page.tito %}
+    <style>{% include tito.css %}</style>
+    <script src='https://js.tito.io/v1' async></script>
+  {% endif %}
 </head>
 <body id="top-of-page" class="{{ page.format }}">
 	{% include masthead %}

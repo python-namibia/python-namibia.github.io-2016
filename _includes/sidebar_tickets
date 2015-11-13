@@ -1,0 +1,28 @@
+<aside>
+	<div class="panel radius">
+		<h3>UNAM students</h3>
+		<p>
+			UNAM students will be able to purchase tickets at <strong>N$200</strong>. Details of how to
+			register will be published soon.
+		</p>
+	</div>
+
+	<div class="panel radius">
+		<h3>Concessionary rates</h3>
+		<p>
+			If you'd like to attend, but would find it hard to afford, <a
+			href="mailto:pycon.namibia@gmail.com">please don't hesitate to speak to
+			us</a>. We want to make attendance at PyCon possible for everyone who'd
+			benefit from it. We will have tickets available at concessionary rates.
+		</p>
+	</div>
+
+	<div class="panel radius">
+		<h3>Travel grants</h3>
+		<p>
+			The Django Society UK will be <a href="/djangosociety/">offering financial
+			assistance</a> to international attendees travelling to PyCon Namibia.
+		</p>
+	</div>
+
+</aside>

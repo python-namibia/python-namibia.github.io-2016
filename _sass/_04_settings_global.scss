@@ -958,7 +958,7 @@ $crumb-slash: "/";
 // $include-html-panel-classes: $include-html-classes;
 
 // We use these to control the background and border styles
-$panel-bg: $grey-1;
+$panel-bg: $yellow-color;
 // $panel-border-style: solid;
 // $panel-border-size: 1px;
 
@@ -1390,7 +1390,7 @@ $topbar-title-font-size: rem-calc(19);
 // $topbar-dropdown-link-weight: $font-weight-normal;
 // $topbar-dropdown-toggle-size: 5px;
 // $topbar-dropdown-toggle-color: $yellow-color;
-// $topbar-dropdown-toggle-alpha: 0.4;
+$topbar-dropdown-toggle-alpha: 1;
 
 // Set the link colors and styles for top-level nav
 // $topbar-link-color: #000;
