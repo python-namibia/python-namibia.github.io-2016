@@ -3,7 +3,12 @@ layout: page
 title: "Meet the team"
 permalink: "/team/"
 ---
-PyCon Nambia 2016 is brought to you by:
+PyCon Nambia 2016 is brought to you by a Namibian committee assisted by
+colleagues from Cardiff as part of the [Phoenix
+Project](http://www.cardiff.ac.uk/phoenix-project). The committee includes
+students, faculty from the [University of Namibia](http://www.unam.na/) and
+[Cardiff University](http://www.cardiff.ac.uk/) and has a cumulative experience
+of organising more than 6 Python related conferences!
 
 <div class="row">
   <div class="large-6 columns">
