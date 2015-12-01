@@ -1,11 +1,11 @@
 ---
 layout: talk
-title: "A great keynote"
-date: 2016-01-11 09:20:00
-speaker: Daniele
-location: Room 02
+title: "Python and I"
+date: 2016-01-11 10:00:00
+speaker: Loek van Gent
+location: Room 01
 day: Monday
-duration: 40 minutes
+duration: 60 minutes
 ---
 
-More Stuff
+A talk about Python.
