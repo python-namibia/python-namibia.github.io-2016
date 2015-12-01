@@ -54,8 +54,8 @@ A PyCon can't happen without the participation of the community, at all levels.
       <h3>Speak</h3>
 
       <p>Whether you are a seasoned conference speaker or have never given a talk before we would
-      love to <a href="/cfp/">hear your proposal for a talk</a> at PyCon Namibia. A call for papers
-      will be circulated shortly.</p>
+      love to <a href="/cfp/">hear your proposal for a talk</a> at PyCon Namibia. The call for proposals will close on the 15th of December.
+      </p>
 
   </div>
   <div class="large-6 columns">
