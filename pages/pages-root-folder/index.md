@@ -40,13 +40,13 @@ permalink: /index.html
 
   <div class="large-3 columns">
    <div class="panel radius">
-     <a href="/djangosociety/">Apply for a grant</a> to <strong>travel to Namibia</strong>.
+     <a href="/sponsorship/">Support PyCon Namibia</a> as a <strong>commercial sponsor</strong>.
    </div>
-
   </div>
+
   <div class="large-3 columns">
    <div class="panel radius">
-     <a href="/sponsorship/">Support PyCon Namibia</a> as a <strong>commercial sponsor</strong>.
+     <a href="/djangosociety/">Apply for a grant</a> to <strong>travel to Namibia</strong>.
    </div>
   </div>
 

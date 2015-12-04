@@ -20,6 +20,12 @@ For details of likely costs of travel, accommodation and subsistence, please see
 
 ### How to apply
 
+**Please note: our travel assistance funds have been fully allocated, and we are not able to accept further applications.**
+
+Thanks to all applicants. We've been able to allocate a substantial sum to visitors from across Africa, and also from Europe and further afield.
+
+The deadline for applciations has now passed and we have no further funds available for travel grants. However, we have left our grant application form open in case we receive further funding that makes it possible to consider new applications.
+
 To apply for a grant, please complete the [PyCon Namibia 2016 travel grant application
 form](https://docs.google.com/forms/d/1FalQthYyMzaS7qeCMrNLNw-OEJhGuHgSjIgLdB0LncI/viewform).
 
