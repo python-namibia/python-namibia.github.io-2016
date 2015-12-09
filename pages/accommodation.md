@@ -34,7 +34,7 @@ that's not necessarily a problem.
 
 See [Hotels.com](http://hotels.com), [Booking.com](https://www.booking.com) or [Google
 Maps](https://goo.gl/maps/bDrBvTrq83v) (note: search Google maps for *hotel*, *guesthouse*,
-*pension*, and be aware that it doesn't list all hotels.
+*pension*, and be aware that it doesn't list all hotels).
 
 ## Private lodgings
 
