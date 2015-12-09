@@ -11,6 +11,10 @@
     url: "/travel/"
     side: left
 
+  - title: Accommodation
+    url: "/accommodation/"
+    side: left
+
 - title: Sponsorship
   url: "/sponsorship/"
   side: left
