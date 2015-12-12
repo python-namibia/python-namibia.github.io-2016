@@ -6,20 +6,30 @@ excerpt: "PyCon Namibia has received sponsorship of $3800 USD from the Python
 Software Foundation."
 ---
 
-The organising committee is delighted to announce that the Python Software
-Foundation has agreed to sponsor the conference! They will be providing $3800
-USD which will help cover costs.
+We're delighted to announce that the Python Software Foundation will be supporting PyCon Namibia
+with sponsorship of US$3800.
 
-This is a great boost to the conference and shows how the international
-Python community is looking forward about PyConNa!
+These funds will help us meet one of our key aims for the event, to leave a lasting educational
+legacy that PyNam and the local Python community can build upon for the future.
+
+The PSF's support will be used in part to provide a set of 50 Raspberry Pi computers; these will be
+used in conference workshops and other activities, and will be used by PyNam in the future to
+continue its [valuable work](/pynam).
+
+This is a great vote of confidence in PyCon Namibia from the international community, and a very sigificant contribution to our goals.
+
+If you'd like to support PyCon Namibia, by sponsoring, speaking or simply by attending, please
+see [Taking part](/take-part).
+
+## About the Python Software Foundation
 
 [![The Python Software Foundation](/images/psf.png)](https://www.python.org/psf/)
-
-The Python Software Foundation has the following stated mission:
 
 > The mission of the Python Software Foundation is to promote, protect, and
 > advance the Python programming language, and to support and facilitate the
 > growth of a diverse and international community of Python programmers.
+> <cite>Mission statement of the PSF</cite>
+
 
 If you would like more information please see:
 [www.python.org/psf/](https://www.python.org/psf/).
