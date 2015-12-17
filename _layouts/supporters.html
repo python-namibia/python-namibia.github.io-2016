@@ -1,0 +1,34 @@
+---
+layout: default
+format: blog-index
+---
+<div id="header-home">
+    <div class="row">
+        <div class="small-12 columns">
+        </div><!-- /.medium-4.columns -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
+
+
+	{% if page.teaser %}
+    <div class="row t30">
+  	<p class="teaser">
+  		{{ page.teaser }}
+  	</p>
+    </div>
+	{% endif %}
+
+
+<div class="row t60">
+
+{% for widget in page.widgets %}
+		{% include frontpage-widget widget=widget %}
+
+  {% if widget.last_in_row %}
+    </div><!-- /.row -->
+    {% unless widget.last %}
+      <div class="row t60">
+    {% endunless %}
+  {% endif %}
+
+{% endfor %}
