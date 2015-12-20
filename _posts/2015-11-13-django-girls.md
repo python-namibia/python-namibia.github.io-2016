@@ -12,7 +12,7 @@ Django Girls workshops are **free** and **open to all women**. No experience is 
 don't need to have a background in science or mathematics to learn or enjoy programming.
 
 In Windhoek, Jessica Upani (PyNam chair) will be joined by several other coaches and organisers
-from across the world, including Anna Ossowski, Aisha Bello, Helen Sherwood-Taylor and Katie Barr.
+from across the world, Aisha Bello, Helen Sherwood-Taylor and Katie Barr.
 
 We're extremely excited to have Django Girls with us at PyCon Namibia.
 
