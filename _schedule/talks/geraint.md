@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2016-01-11 10:30:00
+date: 2016-01-25 10:30:00
 title: "Asq Simulates Queues"
 speaker: Geraint Palmer
 location: Room 01

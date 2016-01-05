@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Installation workshop"
-date: 2016-01-13 13:30:00
+date: 2016-01-27 13:30:00
 speaker: Vince Knight and anyone else who wants to help
 location: Room 01
 day: Wednesday

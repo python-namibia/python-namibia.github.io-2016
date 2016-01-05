@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2016-01-13 10:30:00
+date: 2016-01-27 10:30:00
 title: "Vim as a Python IDE"
 speaker: Humphrey Butau
 location: Room 01

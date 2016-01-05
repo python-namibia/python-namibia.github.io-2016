@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2016-01-12 14:30:00
+date: 2016-01-26 14:30:00
 title: "The life of a freelancer"
 speaker: Maik Hoepful
 location: Room 01

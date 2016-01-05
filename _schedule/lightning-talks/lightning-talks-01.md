@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2016-01-12 16:30:00
+date: 2016-01-26 16:30:00
 title: "Lightning Talks!"
 location: Room 01
 day: Tuesday
