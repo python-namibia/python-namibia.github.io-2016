@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Coffee break"
+title: "Refreshments"
 date: 2016-01-26 11:00:00
 location: Room 01
 day: Tuesday

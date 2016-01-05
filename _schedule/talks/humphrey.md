@@ -8,6 +8,7 @@ day: Tuesday
 duration: 30 minutes
 ---
 
-I am proposing a talk on how to use Vim as a Python IDE. I intend to highlight
-its merits over using Graphical IDEs. In doing this i will do a web app in
-Django with Vim and Tmux.
+I will discuss how to use Vim as a Python IDE.
+
+I shall highlight its merits over using graphical IDEs, and in the process I will build a web app
+applciation in Django with Vim and Tmux.

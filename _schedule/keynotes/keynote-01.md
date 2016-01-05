@@ -8,4 +8,4 @@ day: Tuesday
 duration: 60 minutes
 ---
 
-A talk about Python.
+Loek was a key participant in last year's Python Namibia conference, so we are delighted to have him back, this time as our opening keynote speaker.
