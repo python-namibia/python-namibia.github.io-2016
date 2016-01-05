@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2016-01-12 12:30:00
+date: 2016-01-26 12:30:00
 title: "Python, the next Brazilian generation"
 speaker: Fernando Masanori Ashikaga
 location: Room 01

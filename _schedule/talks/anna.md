@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2016-01-12 15:30:00
+date: 2016-01-26 15:30:00
 title: "About learning to program"
 speaker: Anna Makarudze
 location: Room 01

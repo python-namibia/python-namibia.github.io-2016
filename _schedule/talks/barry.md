@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2016-01-11 09:30:00
+date: 2016-01-25 09:30:00
 title: "Web sockets"
 speaker: Barry Scheepers
 location: Room 01

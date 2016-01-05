@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Opening address"
-date: 2016-01-11 09:30:00
+date: 2016-01-25 09:30:00
 speaker: Jessica Upani
 location: Room 01
 day: Monday

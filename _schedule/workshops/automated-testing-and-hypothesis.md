@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Automated testing and Hypothesis"
-date: 2016-01-13 14:30:00
+date: 2016-01-27 14:30:00
 speaker: David MacRiver
 location: Room 01
 day: Wednesday

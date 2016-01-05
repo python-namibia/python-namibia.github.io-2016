@@ -1,10 +1,10 @@
 ---
 layout: talk
-title: "Installation workshop"
-date: 2016-01-27 13:30:00
+title: "Django Girls"
+date: 2016-01-25 14:00:00
 speaker: Vince Knight and anyone else who wants to help
 location: Room 01
-day: Wednesday
+day: Monday
 duration: 3 hours
 ---
 

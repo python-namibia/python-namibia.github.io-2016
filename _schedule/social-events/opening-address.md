@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Social event"
-date: 2016-01-11 09:00:00
+date: 2016-01-25 09:00:00
 location: The wild
 day: Friday
 duration: 20 minutes

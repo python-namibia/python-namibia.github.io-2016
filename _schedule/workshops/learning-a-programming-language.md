@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Developing Software using Python and Django to solve real life problems"
-date: 2016-01-13 14:30:00
+date: 2016-01-27 14:30:00
 speaker: Anna Makarudze
 location: Room 02
 day: Wednesday
