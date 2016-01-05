@@ -1,11 +1,11 @@
 ---
 layout: talk
-date: 2016-01-27 09:30:00
+date: 2016-01-27 10:30:00
 title: "Web sockets"
 speaker: Barry Scheepers
-location: Room 01
+location: Room 02
 day: Wednesday
-duration: 40 minutes
+duration: 45 minutes
 ---
 
 I would like to introduce the use of Websockets for distributed messaging and

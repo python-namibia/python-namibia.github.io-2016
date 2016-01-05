@@ -1,11 +1,11 @@
 ---
 layout: talk
-date: 2016-01-27 11:30:00
+date: 2016-01-27 12:15:00
 title: "The Mathematics of Object Orientation"
 speaker: Iwan Vosloo
 location: Room 01
 day: Wednesday
-duration: 40 minutes
+duration: 45 minutes
 ---
 
 Object Orientation (OO) is often introduced in terms of how it is implemented

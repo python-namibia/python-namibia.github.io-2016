@@ -1,11 +1,11 @@
 ---
 layout: talk
-date: 2016-01-27 11:00:00
+date: 2016-01-27 15:15:00
 title: "Image recognition via template matching"
 speaker: Katie Barr
 location: Room 01
 day: Wednesday
-duration: 40 minutes
+duration: 45 minutes
 ---
 
 Image recognition, also known as template matching, is a key component of

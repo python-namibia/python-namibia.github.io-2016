@@ -1,11 +1,11 @@
 ---
 layout: talk
-date: 2016-01-27 12:30:00
+date: 2016-01-27 10:00:00
 title: "Python, the next Brazilian generation"
 speaker: Fernando Masanori Ashikaga
-location: Room 01
+location: Room 02
 day: Wednesday
-duration: 40 minutes
+duration: 30 minutes
 ---
 
 I. Context A. Jessica McKellar made a challenge aiming at promoting the next Python generation, by one action, until 2015 in her keynote at PyConUS 2014. B. Python for Zombies MOOC is my personal contribution to the next Brazilian Python Generation.
