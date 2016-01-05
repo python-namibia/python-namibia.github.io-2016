@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2016-01-25 09:30:00
+date: 2016-01-26 09:30:00
 title: "TBD"
 speaker: Daniele Procida
 location: Room 01

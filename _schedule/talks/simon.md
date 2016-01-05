@@ -1,11 +1,11 @@
 ---
 layout: talk
-date: 2016-01-25 09:30:00
+date: 2016-01-27 09:00:00
 title: "MomConnect"
 speaker: Simon Cross
 location: Room 01
-day: Tuesday
-duration: 40 minutes
+day: Wednesday
+duration: 60 minutes
 ---
 
 MomConnect is an open source mobile health system aimed at improving maternal health services at a national scale.

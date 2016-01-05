@@ -1,11 +1,11 @@
 ---
 layout: talk
-date: 2016-01-25 10:30:00
+date: 2016-01-26 10:30:00
 title: "Asq Simulates Queues"
 speaker: Geraint Palmer
 location: Room 01
 day: Tuesday
-duration: 20 minutes
+duration: 30 minutes
 ---
 
 This talk will give the story of ASQ (ASQ Simulates Queues), an open queueing

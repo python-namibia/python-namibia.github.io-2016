@@ -6,7 +6,7 @@ Functionality. Opportunities"
 speaker: Lemeone Smit
 location: Room 01
 day: Tuesday
-duration: 60 minutes
+duration: 45 minutes
 ---
 
 TBD.

@@ -1,11 +1,11 @@
 ---
 layout: talk
-date: 2016-01-26 14:30:00
-title: "The life of a freelancer"
-speaker: Maik Hoepful
+date: 2016-01-26 15:00:00
+title: "Property based testing with Hypothesis"
+speaker: David MacIver
 location: Room 01
 day: Tuesday
-duration: 45 minutes
+duration: 30 minutes
 ---
 
 I was more or less thrown into freelancing, but have found it a very comfortable way to work. During the last four years, on average, I have not worked more than two days a week. For a lot of people, it provides a lot of flexibility and independence that is not attainable through a regular job.
