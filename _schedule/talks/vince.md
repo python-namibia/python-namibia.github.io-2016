@@ -8,6 +8,8 @@ day: Wednesday
 duration: 30 minutes
 ---
 
-In 2015, in Windhoek I started a Python library that replicates a game theoretic
-computer tournament. In this talk I will discuss how this library became
-(relatively) popular.
+In 2015, in Windhoek I started a Python library, call Axelrod that replicates a
+game theoretic computer tournament. In this talk I will discuss how this library
+became (relatively) popular: in particular highlighting everything the various
+contributions taught me. I will also discuss how it can be used to model not
+only evolution but the complicated process of exchanging gifts at Christmas.
