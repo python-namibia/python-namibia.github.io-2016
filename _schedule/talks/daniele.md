@@ -1,10 +1,10 @@
 ---
 layout: talk
-date: 2016-01-26 09:30:00
+date: 2016-01-27 11:45:00
 title: "TBD"
 speaker: Daniele Procida
 location: Room 01
-day: Tuesday
+day: Wednesday
 duration: 40 minutes
 ---
 
