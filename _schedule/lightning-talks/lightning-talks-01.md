@@ -7,5 +7,4 @@ day: Tuesday
 duration: 60 minutes
 ---
 
-A favourite of all PyCons: speak for a strict 5 minutes about everything and
-anything!
+A favourite of all PyCons: short (five minutes maximum) sweet talks, on any subject you choose.

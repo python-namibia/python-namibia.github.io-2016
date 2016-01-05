@@ -8,7 +8,7 @@ day: Monday
 duration: 3 hours
 ---
 
-This tutorial assumes that you have very few basic concepts in other languages
+This tutorial assumes that you have a few basic concepts in other languages
 (input, output, booleans, flow control, functions, repetions). We'll cover, in
 Python 3.x:
 
@@ -18,6 +18,6 @@ Python 3.x:
 * Chuck Norris Nerd Jokes
 * Facebook Hackaton 2013 selective test in one line code
 * Calculation of of the World Cup in 2014 costs, through Brazilian government
-public data
+  public data
 
 Important note: I am *not* a Python guru, only a passionate teacher!

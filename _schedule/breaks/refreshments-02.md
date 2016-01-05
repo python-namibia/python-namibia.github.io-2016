@@ -1,10 +1,10 @@
 ---
 layout: talk
 title: "Coffee break"
-date: 2016-01-25 10:30:00
+date: 2016-01-26 11:00:00
 location: Room 01
-day: Monday
+day: Tuesday
 duration: 30 minutes
 ---
 
-Coffee and cakes.
+Coffee, tea and cakes.

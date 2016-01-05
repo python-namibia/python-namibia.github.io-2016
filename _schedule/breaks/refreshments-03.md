@@ -7,4 +7,4 @@ day: Tuesday
 duration: 30 minutes
 ---
 
-Coffee and cakes.
+Coffee, tea and cakes.
