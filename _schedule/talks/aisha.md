@@ -1,10 +1,10 @@
 ---
 layout: talk
-date: 2016-04-12 15:30:00
+date: 2016-04-27 15:30:00
 title: "My Journey through Python"
 speaker: Aisha Bello
 location: Room 01
-day: Thursday
+day: Wednesday
 duration: 20 minutes
 ---
 

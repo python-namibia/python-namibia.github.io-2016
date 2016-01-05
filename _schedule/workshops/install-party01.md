@@ -1,7 +1,7 @@
 ---
 layout: talk
-title: "Installation workshop"
-date: 2016-01-25 09:45:00
+title: "Installation clinic (continues after lunch)"
+date: 2016-01-25 11:00:00
 speaker: Vince Knight and anyone else who wants to help
 location: Room 01
 day: Monday

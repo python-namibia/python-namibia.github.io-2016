@@ -1,9 +1,9 @@
 ---
 layout: talk
-date: 2016-01-25 9:45:00
+date: 2016-01-28 14:00:00
 title: "Package and environment with conda"
 speaker: Blake Griffith
-location: Room 01
+location: Room 02
 day: Thursday
 duration: 40 minutes
 ---

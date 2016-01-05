@@ -2,7 +2,7 @@
 layout: talk
 title: "Introduction to the day's workshops"
 date: 2016-01-25 09:45:00
-speaker: Vince Knight and anyone else who wants to help
+speaker: Daniele Procida
 location: Room 01
 day: Monday
 duration: 1 hour

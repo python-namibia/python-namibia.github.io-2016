@@ -1,10 +1,10 @@
 ---
 layout: talk
-title: "Installation workshop"
-date: 2016-01-27 13:30:00
+title: "Installation Clinic"
+date: 2016-01-28 09:30:00
 speaker: Vince Knight and anyone else who wants to help
 location: Room 01
-day: Wednesday
+day: Thursday
 duration: 3 hours
 ---
 

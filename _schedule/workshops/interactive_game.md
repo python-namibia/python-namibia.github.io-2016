@@ -1,9 +1,9 @@
 ---
 layout: talk
-date: 2016-01-16 12:30:00
+date: 2016-01-28 11:30:00
 title: "Building a simple interactive fiction game with Asyncio and WebSockets."
 speaker: Simon Cross
-location: Room 01
+location: Room 02
 day: Thursday
 duration: 40 minutes
 ---
