@@ -1,10 +1,10 @@
 ---
 layout: talk
-date: 2016-01-26 11:30:00
+date: 2016-01-27 11:30:00
 title: "The Mathematics of Object Orientation"
 speaker: Iwan Vosloo
 location: Room 01
-day: Tuesday
+day: Wednesday
 duration: 40 minutes
 ---
 
