@@ -7,4 +7,4 @@ day: Friday
 duration: 20 minutes
 ---
 
-We're going on a trip.
+We're going on a trip - details to be confirmed.
