@@ -72,6 +72,13 @@ exclude:
 language: "en"
 
 
+# Collection for the schedule
+
+collections:
+    schedule:
+        output: true
+
+
 # Used › default.html front-matter and compress.html
 # Options › http://jch.penibelst.de
 compress_html:
