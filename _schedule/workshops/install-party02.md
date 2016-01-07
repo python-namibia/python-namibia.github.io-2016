@@ -2,7 +2,7 @@
 layout: talk
 title: "Installation Clinic"
 date: 2016-01-28 09:30:00
-speaker: Vince Knight and anyone else who wants to help
+speaker: Vincent Knight
 location: Room 01
 day: Thursday
 duration: 3 hours

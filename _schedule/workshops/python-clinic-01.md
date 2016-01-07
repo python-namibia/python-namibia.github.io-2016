@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "All day python clinic"
+title: "All-day Python clinic"
 date: 2016-01-28 09:30:00
 location: TBD
 day: Thursday

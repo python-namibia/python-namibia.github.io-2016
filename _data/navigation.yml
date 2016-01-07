@@ -2,6 +2,7 @@
   url: "/"
   side: left
 
+
 - title: About
   url: "/about/"
   side: left
@@ -14,6 +15,10 @@
   - title: Accommodation
     url: "/accommodation/"
     side: left
+
+- title: Programme
+  url: "/programme/"
+  side: left
 
 - title: Sponsorship
   url: "/sponsorship/"

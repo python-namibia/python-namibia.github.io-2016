@@ -2,7 +2,7 @@
 layout: talk
 date: 2016-01-27 14:30:00
 title: "Working with APIs"
-speaker: Maik Hoepful
+speaker: Maik Hoepfel
 location: Room 01
 day: Wednesday
 duration: 40 minutes

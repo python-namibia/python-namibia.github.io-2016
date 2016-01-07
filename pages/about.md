@@ -22,32 +22,15 @@ The community has already been host to a successful Python conference, [Python N
       <p>The formal programme runs from Monday 25th to Friday 29th January 2016.</p>
   </div>
 </div>
-
-## Programme
-
 <div class="row">
-  <div class="large-4 columns">
-      <h3>Monday & Thursday</h3>
-      Technical workshops & collaboration.
-  </div>
-
-  <div class="large-4 columns">
-      <h3>Tuesday & Wednesday</h3>
-      Talks on Python and related subjects of all kinds.
-  </div>
-  <div class="large-4 columns">
-      <h3>Friday: excursion</h3>
-      A social event to see a little bit of Namibia beyond the city of Windhoek.
-  </div>
-</div>
-
-<div class="row">
-  <div class="large-6 columns">
-    <h3>Proposals</h3>
-    <a href="/cfp">Our call for proposals for talks and other activities is open.</a>
-  </div>
   <div class="large-6 columns">
     <h3>Tickets</h3>
     <a href="/tickets">Tickets are now on sale.</a>
   </div>
+  <div class="large-6 columns">
+    <h3>Programme</h3>
+    The draft <a href="/programme">programme of talks and workshops</a> is now published.</a>
+  </div>
 </div>
+
+

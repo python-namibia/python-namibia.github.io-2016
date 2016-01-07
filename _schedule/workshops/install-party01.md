@@ -2,7 +2,7 @@
 layout: talk
 title: "Installation clinic (continues after lunch)"
 date: 2016-01-25 11:00:00
-speaker: Vince Knight and assistants
+speaker: Vincent Knight
 location: Room 01
 day: Monday
 duration: 3 hours

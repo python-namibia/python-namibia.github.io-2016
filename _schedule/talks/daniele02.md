@@ -3,7 +3,7 @@ layout: talk
 date: 2016-01-26 16:00:00
 title: "Introducing django CMS"
 speaker: Daniele Procida
-location: Room 01
+location: Room 02
 day: Tuesday
 duration: 20 minutes
 ---
