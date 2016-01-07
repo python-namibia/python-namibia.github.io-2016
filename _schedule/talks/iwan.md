@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2016-01-27 12:15:00
-title: "The Mathematics of Object Orientation"
+title: "What's the point of Object Orientation?"
 speaker: Iwan Vosloo
 location: Room 01
 day: Wednesday

@@ -15,7 +15,7 @@ permalink: "/schedule/"
 
     {% for post in schedule %}
         {% if post.day == day %}
-- **{{ post.date | date: "%H:%M" }}** {% if {{post.speaker}} %}{{post.speaker}}:{% endif %} [{{post.title}}]({{ post.url | prepend: site.baseurl }}) ({{post.location }})
+- **{{ post.date | date: "%H:%M" }}** {% if {{post.speaker}} %}{{post.speaker}}:{% endif %} [{{post.title}}]({{ post.url | prepend: site.baseurl }})
         {% endif %}
     {% endfor %}
 

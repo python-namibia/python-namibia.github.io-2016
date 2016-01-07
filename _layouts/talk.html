@@ -35,10 +35,9 @@ format: post
 			</p>
 			{% endif %}
 
-			<spon itemprop="articleSection">
-            <b>{{ page.date | date: "%D - %H:%M" }}</b> ({{page.location}} - {{page.duration}}): {{page.speaker}}
+			<span itemprop="articleSection">
+            <b>{{ page.date | date: "%A %-d %B - %H:%M" }}</b> <em>{{page.speaker}}</em>
 
-            <h3>Description:</h3>
 			{{ content }}
 			</span>
 
