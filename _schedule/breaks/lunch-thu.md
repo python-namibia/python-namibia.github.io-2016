@@ -1,9 +1,9 @@
 ---
 layout: talk
 title: "Lunch"
-date: 2016-01-27 13:00:00
+date: 2016-01-28 13:00:00
 location: TBD
-day: Wednesday
+day: Thursday
 duration: 60 minutes
 ---
 
