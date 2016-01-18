@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Your first pull request"
-date: 2016-01-28 11:30:00
+date: 2016-01-28 14:00:00
 speaker: Maik Hoepfel
 location: Room 01
 day: Thursday
