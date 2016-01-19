@@ -29,7 +29,7 @@ permalink: "/programme/"
           {% for post in schedule %}
             {% if post.day == "Tuesday" %}
               <li>
-                {% if {{post.speaker}} %}{{post.speaker}}: {% endif %} <a href="{{ post.url}}"><em>{{post.title}}</em></a>
+                {% if {{post.speaker}} %}{{post.speaker}}: {% endif %} <a href="{{ post.url}}"><em>{{post.title}}</em></a> {% if {{post.location}} %} ({{post.location}}: {{post.date | date: "%H:%M"}}) {% endif %}
               </li>
             {% endif %}
           {% endfor %}
@@ -44,7 +44,7 @@ permalink: "/programme/"
           {% for post in schedule %}
             {% if post.day == "Wednesday" %}
               <li>
-                {% if {{post.speaker}} %}{{post.speaker}}: {% endif %} <a href="{{ post.url}}"><em>{{post.title}}</em></a>
+                {% if {{post.speaker}} %}{{post.speaker}}: {% endif %} <a href="{{ post.url}}"><em>{{post.title}}</em></a> {% if {{post.location}} %} ({{post.location}}: {{post.date | date: "%H:%M"}}) {% endif %}
               </li>
             {% endif %}
           {% endfor %}
