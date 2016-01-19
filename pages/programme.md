@@ -4,7 +4,7 @@ title: "Programme"
 permalink: "/programme/"
 ---
 
-**Please note:** this programme of talks is still subject to change - we expect to add a few more to the schedule, and some times/days may change.
+**Registration will be at 0800 outside of the PK1 lecture hall.**
 
 
 {% assign schedule = site.schedule | sort: 'date' %}
