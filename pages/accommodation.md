@@ -9,7 +9,8 @@ south west of the city, near Eros Airport and Pioneerspark.
 
 ## Safari Hotel
 
-Many of the conference delegates will be staying at the [Safari Hotel](http://www.safarihotelsnamibia.com), which we've used before.
+Many of the conference delegates will be staying at the [Safari
+Hotel](http://www.safarihotelsnamibia.com/hotel-safari/), which we've used before.
 
 Rates for conference attendees (*Standard Rooms*, the least expensive) are:
 
