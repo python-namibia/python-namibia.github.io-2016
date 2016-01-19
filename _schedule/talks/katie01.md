@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2016-01-27 10:30:00
+date: 2016-01-27 11:30:00
 title: "Simulating quantum systems in less than 20 lines of pure Python"
 speaker: Katie Barr
 location: Room 01

@@ -1,9 +1,9 @@
 ---
 layout: talk
-date: 2016-01-27 11:45:00
+date: 2016-01-27 16:00:00
 title: "Rider/Coder"
 speaker: Daniele Procida
-location: Room 02
+location: Room 01
 day: Wednesday
 duration: 40 minutes
 ---

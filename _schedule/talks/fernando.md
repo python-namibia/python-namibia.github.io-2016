@@ -1,11 +1,11 @@
 ---
 layout: talk
-date: 2016-01-27 10:00:00
+date: 2016-01-26 16:00:00
 title: "Python: the next Brazilian generation"
 speaker: Fernando Masanori Ashikaga
-location: Room 02
-day: Wednesday
-duration: 30 minutes
+location: Room 01
+day: Tuesday
+duration: 45 minutes
 ---
 
 In her keynote at PyConUS 2014, Jessica McKellar issued a challenge: to do one thing that would promote the next generation of Python programmers.
