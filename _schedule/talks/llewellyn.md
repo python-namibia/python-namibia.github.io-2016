@@ -8,6 +8,6 @@ day: Tuesday
 duration: 30 minutes
 ---
 
-Llewellyn runs [vdm.io]() a Namibia software services company. He is a keen
+Llewellyn runs [vdm.io](http://vdm.io/) a Namibia software services company. He is a keen
 contributor to Joomla!, the PHP content management system. In this talk he will
 discuss lessons that all users of open source can learn from.
