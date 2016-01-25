@@ -1,8 +1,8 @@
 ---
 layout: talk
-title: "Welcome"
+title: "Opening addresses"
 date: 2016-01-25 09:30:00
-speaker: Jessica Upani, Chair of PyNam
+speaker: Speakers on behalf of UNAM
 location: Room 01
 day: Monday
 duration: 30 minutes
