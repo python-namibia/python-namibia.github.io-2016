@@ -1,10 +1,10 @@
 ---
 layout: talk
-date: 2016-01-26 10:00:00
+date: 2016-01-27 10:30:00
 title: "Planning a Python Event"
 speaker: Helen Sherwood-Taylor
-location: Room 02
-day: Tuesday
+location: Room 01
+day: Wednesday
 duration: 30 minutes
 ---
 
