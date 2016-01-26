@@ -27,7 +27,8 @@ permalink: "/programme/"
 
   <div class="large-6 columns">
       <h3>Tuesday 26th: workshops</h3>
-      <p>No conference events taking place today.</p>
+      <p>No conference events taking place today. Events have been postponed due
+      to student action at the University.</p>
   </div>
 </div>
 
