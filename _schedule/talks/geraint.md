@@ -1,10 +1,10 @@
 ---
 layout: talk
-date: 2016-01-26 10:00:00
+date: 2016-01-27 10:00:00
 title: "Simulating queues with Ciw"
 speaker: Geraint Palmer
 location: Room 01
-day: Tuesday
+day: Wednesday
 duration: 30 minutes
 ---
 

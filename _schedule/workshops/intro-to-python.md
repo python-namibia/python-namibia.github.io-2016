@@ -1,10 +1,10 @@
 ---
 layout: talk
 title: "Introduction to Python"
-date: 2016-01-28 09:30:00
+date: 2016-01-29 09:30:00
 speaker: Fernando Masanori Ashikaga
 location: Room 02
-day: Thursday
+day: Friday
 duration: 3 hours
 ---
 

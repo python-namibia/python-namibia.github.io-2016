@@ -1,10 +1,10 @@
 ---
 layout: talk
-date: 2016-01-26 10:30:00
+date: 2016-01-27 10:30:00
 title: "The African Way"
 speaker: Ibrahim Diop
 location: Room 01
-day: Tuesday
+day: Wednesday
 duration: 30 minutes
 ---
 

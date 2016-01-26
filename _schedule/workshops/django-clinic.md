@@ -1,9 +1,9 @@
 ---
 layout: talk
 title: "All-day Django clinic"
-date: 2016-01-28 09:30:00
+date: 2016-01-29 09:30:00
 location: TBD
-day: Thursday
+day: Friday
 duration: 90 minutes
 ---
 

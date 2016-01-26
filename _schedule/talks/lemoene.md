@@ -1,10 +1,10 @@
 ---
 layout: talk
-date: 2016-01-27 12:15:00
+date: 2016-01-28 12:15:00
 title: "Open Source LIMS in Namibian and Zimbabwean health care laboratories."
 speaker: Lemoene Smit
 location: Room 02
-day: Wednesday
+day: Thursday
 duration: 45 minutes
 ---
 

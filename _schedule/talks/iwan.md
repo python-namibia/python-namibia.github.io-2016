@@ -1,10 +1,10 @@
 ---
 layout: talk
-date: 2016-01-26 11:30:00
+date: 2016-01-27 11:30:00
 title: "What's the point of Object Orientation?"
 speaker: Iwan Vosloo
 location: Room 02
-day: Tuesday
+day: Wednesday
 duration: 45 minutes
 ---
 

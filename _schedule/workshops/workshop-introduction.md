@@ -7,7 +7,7 @@ day: Monday
 duration: 1 hour
 ---
 
-We'll have several workshops running on Monday and Thursday, aimed at all levels of experience.
+We'll have several workshops running on Monday and Friday, aimed at all levels of experience.
 
 Find out what workshops are on offer, and sign up.
 

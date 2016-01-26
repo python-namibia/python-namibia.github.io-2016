@@ -1,9 +1,9 @@
 ---
 layout: talk
-date: 2016-01-27 16:45:00
+date: 2016-01-28 16:45:00
 title: "Lightning Talks!"
 location: Room 01
-day: Wednesday
+day: Thursday
 duration: 60 minutes
 ---
 

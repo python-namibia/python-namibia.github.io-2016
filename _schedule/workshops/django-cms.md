@@ -1,10 +1,10 @@
 ---
 layout: talk
 title: "Getting started with django CMS"
-date: 2016-01-28 14:30:00
+date: 2016-01-29 14:30:00
 speaker: Daniele Procida
 location: Room 02
-day: Thursday
+day: Friday
 duration: 2 hours
 ---
 

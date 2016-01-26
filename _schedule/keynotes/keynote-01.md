@@ -1,10 +1,10 @@
 ---
 layout: talk
 title: "Keynote: So - this idea of yours..."
-date: 2016-01-26 09:00:00
+date: 2016-01-27 09:00:00
 speaker: Loek van Gent
 location: Room 01
-day: Tuesday
+day: Wednesday
 duration: 60 minutes
 ---
 

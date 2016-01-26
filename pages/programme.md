@@ -4,7 +4,7 @@ title: "Programme"
 permalink: "/programme/"
 ---
 
-<h2>Thursday's talks will be held at <a href="http://www.safarihotelsnamibia.com/">Safari Hotel Conference centre</a> (Corner of Auas and Aviation Streets).</h2>
+<h2>Wednesday's talks will be held at <a href="http://www.safarihotelsnamibia.com/">Safari Hotel Conference centre</a> (Corner of Auas and Aviation Streets).</h2>
 
 
 {% assign schedule = site.schedule | sort: 'date' %}
@@ -29,7 +29,7 @@ permalink: "/programme/"
       <h3>Wednesday 27th: talks</h3>
       <ul>
           {% for post in schedule %}
-            {% if post.day == "Tuesday" %}
+            {% if post.day == "Wednesday" %}
               <li>
                 {% if {{post.date}} %}{{post.date | date: "%H:%M"}}: {% endif %}
                 {% if {{post.speaker}} %}{{post.speaker}}: {% endif %} <a href="{{ post.url}}"><em>{{post.title}}</em></a>
@@ -46,7 +46,7 @@ permalink: "/programme/"
       <h3>Thursday 28th: talks</h3>
       <ul>
           {% for post in schedule %}
-            {% if post.day == "Wednesday" %}
+            {% if post.day == "Thursday" %}
               <li>
                 {% if {{post.date}} %}{{post.date | date: "%H:%M"}}: {% endif %}
                 {% if {{post.speaker}} %}{{post.speaker}}: {% endif %} <a href="{{ post.url}}"><em>{{post.title}}</em></a>
@@ -60,7 +60,7 @@ permalink: "/programme/"
       <h3>Friday 29th: workshops</h3>
       <ul>
           {% for post in schedule %}
-            {% if post.day == "Thursday" %}
+            {% if post.day == "Friday" %}
               <li>
                 {% if {{post.date}} %}{{post.date | date: "%H:%M"}}: {% endif %}
                 {% if {{post.speaker}} %}{{post.speaker}}: {% endif %} <a href="{{ post.url}}"><em>{{post.title}}</em></a>

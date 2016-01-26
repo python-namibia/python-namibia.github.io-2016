@@ -1,10 +1,10 @@
 ---
 layout: talk
-date: 2016-01-27 10:00:00
+date: 2016-01-28 10:00:00
 title: "Christmas gifts, evolution and Python"
 speaker: Vince Knight
 location: Room 01
-day: Wednesday
+day: Thursday
 duration: 30 minutes
 ---
 

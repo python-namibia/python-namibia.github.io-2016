@@ -1,10 +1,10 @@
 ---
 layout: talk
-date: 2016-01-27 09:00:00
+date: 2016-01-28 09:00:00
 title: "MomConnect"
 speaker: Simon Cross
 location: Room 01
-day: Wednesday
+day: Thursday
 duration: 60 minutes
 ---
 

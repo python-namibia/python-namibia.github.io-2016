@@ -1,10 +1,10 @@
 ---
 layout: talk
-date: 2016-01-26 12:15:00
+date: 2016-01-27 12:15:00
 title: "Image recognition via template matching"
 speaker: Katie Barr
 location: Room 01
-day: Tuesday
+day: Wednesday
 duration: 45 minutes
 ---
 

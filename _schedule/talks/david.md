@@ -1,10 +1,10 @@
 ---
 layout: talk
-date: 2016-01-26 15:00:00
+date: 2016-01-27 15:00:00
 title: "How do I know if this code works?"
 speaker: David MacIver
 location: Room 01
-day: Tuesday
+day: Wednesday
 duration: 30 minutes
 ---
 
