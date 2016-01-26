@@ -26,6 +26,13 @@ permalink: "/programme/"
   </div>
 
   <div class="large-6 columns">
+      <h3>Tuesday 26th: workshops</h3>
+      <p>No conference events taking place today.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="large-6 columns">
       <h3>Wednesday 27th: talks</h3>
       <ul>
           {% for post in schedule %}
@@ -39,9 +46,7 @@ permalink: "/programme/"
           {% endfor %}
       </ul>
   </div>
-</div>
 
-<div class="row">
   <div class="large-6 columns">
       <h3>Thursday 28th: talks</h3>
       <ul>
@@ -56,6 +61,9 @@ permalink: "/programme/"
           {% endfor %}
       </ul>
   </div>
+</div>
+
+<div class="row">
   <div class="large-6 columns">
       <h3>Friday 29th: workshops</h3>
       <ul>
