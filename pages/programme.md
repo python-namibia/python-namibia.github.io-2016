@@ -4,7 +4,7 @@ title: "Programme"
 permalink: "/programme/"
 ---
 
-**Registration will be at 0800 outside of the PK1 lecture hall.**
+<h2>Thursday's talks will be held at <a href="http://www.safarihotelsnamibia.com/">Safari Hotel Conference centre</a> (Corner of Auas and Aviation Streets).</h2>
 
 
 {% assign schedule = site.schedule | sort: 'date' %}
