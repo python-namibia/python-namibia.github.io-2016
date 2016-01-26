@@ -26,7 +26,7 @@ permalink: "/programme/"
   </div>
 
   <div class="large-6 columns">
-      <h3>Tuesday 26th: talks</h3>
+      <h3>Wednesday 27th: talks</h3>
       <ul>
           {% for post in schedule %}
             {% if post.day == "Tuesday" %}
@@ -43,7 +43,7 @@ permalink: "/programme/"
 
 <div class="row">
   <div class="large-6 columns">
-      <h3>Wednesday 27th: talks</h3>
+      <h3>Thursday 28th: talks</h3>
       <ul>
           {% for post in schedule %}
             {% if post.day == "Wednesday" %}
@@ -57,7 +57,7 @@ permalink: "/programme/"
       </ul>
   </div>
   <div class="large-6 columns">
-      <h3>Thursday 28th: workshops</h3>
+      <h3>Friday 29th: workshops</h3>
       <ul>
           {% for post in schedule %}
             {% if post.day == "Thursday" %}
@@ -69,12 +69,6 @@ permalink: "/programme/"
             {% endif %}
           {% endfor %}
       </ul>
-  </div>
-</div>
-<div class="row">
-  <div class="large-12 columns">
-      <h3>Friday: excursion</h3>
-      A social event to see a little bit of Namibia beyond the city of Windhoek.
   </div>
 </div>
 
