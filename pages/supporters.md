@@ -46,7 +46,7 @@ rows:
 
 - column_width: 3
   widgets:
-    - title: "Praekelt Foundation"
+    - title: "Praekelt"
       url: "/praekelt/"
       image: /praekelt.png
 
