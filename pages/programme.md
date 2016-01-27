@@ -4,7 +4,7 @@ title: "Programme"
 permalink: "/programme/"
 ---
 
-<h2>Wednesday's talks will be held at <a href="http://www.safarihotelsnamibia.com/">Safari Hotel Conference centre</a> (Corner of Auas and Aviation Streets).</h2>
+<h2>On Thursday, talks will be held at UNAM.</h2>
 
 
 {% assign schedule = site.schedule | sort: 'date' %}
