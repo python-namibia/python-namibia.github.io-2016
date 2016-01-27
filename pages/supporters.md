@@ -44,4 +44,22 @@ rows:
       url: "http://djangoproject.com"
       image: /Django.png
 
+- column_width: 3
+  widgets:
+    - title: "Praekelt Foundation"
+      url: "/praekelt/"
+      image: /wildfish_logo_white_640x640_square.png
+
+    - title: "IMS"
+      url: "/ims/"
+      image: /davidmaciver.jpg
+
+    - title: "The Pi Hut"
+      url: "/the-pi-hut/"
+      image: /psfsquare.png
+
+    - title:  "django-cms"
+      url: "http://djangoproject.com"
+      image: /Django.png
+
 ---
