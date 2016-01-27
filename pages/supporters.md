@@ -47,7 +47,7 @@ rows:
 - column_width: 3
   widgets:
     - title: "Praekelt Foundation"
-      url: "http://www.praekeltfoundation.org/"
+      url: "/praekelt/"
       image: /praekelt.png
 
     - title: "IMS"
@@ -55,7 +55,7 @@ rows:
       image: /IMS.png
 
     - title: "The Pi Hut"
-      url: "http://thepihut.com/"
+      url: "/the-pi-hut/"
       image: /thepihut.png
 
     - title:  "django-cms"
