@@ -47,19 +47,19 @@ rows:
 - column_width: 3
   widgets:
     - title: "Praekelt Foundation"
-      url: "/praekelt/"
-      image: /wildfish_logo_white_640x640_square.png
+      url: "http://www.praekeltfoundation.org/"
+      image: /praekelt.png
 
     - title: "IMS"
-      url: "/ims/"
-      image: /davidmaciver.jpg
+      url: "http://www.ims.com.na/"
+      image: /IMS.png
 
     - title: "The Pi Hut"
-      url: "/the-pi-hut/"
-      image: /psfsquare.png
+      url: "http://thepihut.com/"
+      image: /thepihut.png
 
     - title:  "django-cms"
-      url: "http://djangoproject.com"
-      image: /Django.png
+      url: "http://www.django-cms.org/en/"
+      image: /logo-django_cms-v3.png
 
 ---
