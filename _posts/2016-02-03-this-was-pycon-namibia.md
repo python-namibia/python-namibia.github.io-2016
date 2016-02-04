@@ -220,7 +220,7 @@ Hiccup
 
 Day two of the conference began with the news that student protests over tuition fees at UNAM had locked down the University; there would be no events taking place that day.
 
-A number of local people wryly told us: *Welcome to Africa* - but of course, student protests and [other unexpected events can happen anywhere](http://2015.djangocon.eu/news/boy-band-disrupts-djangocon-europe/) in the world. In a testament to the African capacity for Getting Things Done When They Need To Be Done, within 45 minutes of receiving confirmation of the lockdown the organising committee had been to find and book an alternative venue for the following day, complete with catering and AV equipment and support.
+A number of local people wryly told us: *Welcome to Africa* - but of course, student protests and [other unexpected events can happen anywhere](http://2015.djangocon.eu/news/boy-band-disrupts-djangocon-europe/) in the world. In a testament to the African capacity for Getting Things Done When They Need To Be Done, within 45 minutes of receiving confirmation of the lockdown the organising committee had been able to find and book an alternative venue for the following day, complete with catering and AV equipment and support.
 
 Equally impressive was the reaction of the local community, with sponsors and other attendees rallying round with help, advice and offers of equipment.
 
