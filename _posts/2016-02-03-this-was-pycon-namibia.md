@@ -46,7 +46,7 @@ On 25th January 2016, PyCon Namibia opened its doors at the [University of Namib
 Talks
 =====
 
-The [talks](/programme) opened with a stirring keynote address by Loek van Gent, one of the participants in last year's event.
+The [talks](/programme) opened with a stirring keynote address by **Loek van Gent**, one of the participants in last year's event.
 
 It was followed by talks covering a wide range of Python-related topics - its application in fields including mathematics and physics, programming theory, Python tools, libraries and techniques, web applications in Plone and Django, Python in African contexts, and Python in business, amongst others.
 
@@ -103,7 +103,7 @@ Thanks to the support of Cardiff University's [Phoenix Project](http://www.cardi
 
 Our PiLab of pre-configured machines, with appropriate software already installed for the workshops and tutorials, turned out to be an invaluable resource. For many individuals, lack of access to *suitable* computer systems is as much of a barrier to participation in open-source development as a lack of resources in the first place.
 
-At the end of the conference batches of the Raspberry Pis were handed over to new custodians, to be used for future teaching workshops, learning, experimentation and exploration. The recipients included the department of Computer Science at UNAM, PyNam (the Python Namibia Society), PyZim (Python Zimbabwe) and numerous individual attendees in the Namibian Python community, amongst them several Namibian high-school pupils who attended the conference.
+At the end of the conference batches of the Raspberry Pis were handed over to new custodians, to be used for future teaching workshops, learning, experimentation and exploration. The recipients included the department of **Computer Science at UNAM**, **PyNam** (the Python Namibia Society), **PyZim** (Python Zimbabwe) and numerous individual attendees in the Namibian Python community, amongst them several Namibian high-school pupils who attended the conference.
 
 Django Girls
 ============
@@ -112,7 +112,7 @@ As usual, the Django Girls formula of an installation party the day before the t
 
 The new Django Girls attendees found themselves in a friendly and supportive cohort, that ensured their introduction to Python programming was as welcoming and possible, and set them up very well to get the best out of and participate in the days that followed.
 
-Attendees at Django Girls Windhoek left with plans for new events across Africa, in Lagos, Cape Town and Harare.
+Attendees at Django Girls Windhoek left with plans for new events across Africa, in **Lagos**, **Cape Town** and **Harare**.
 
 Lightning talks
 ===============
@@ -220,7 +220,7 @@ Hiccup
 
 Day two of the conference began with the news that student protests over tuition fees at UNAM had locked down the University; there would be no events taking place that day.
 
-A number of local people wryly told us: *Welcome to Africa* - but of course, student protests and [other unexpected events can happen anywhere](http://2015.djangocon.eu/news/boy-band-disrupts-djangocon-europe/) in the world. In a testament to the African capacity for Getting Things Done When They Need To Be Done, within 45 minutes of receiving confirmation of the lockdown the organising committee had been able to find and book an alternative venue for the following day, complete with catering and AV equipment and support.
+A number of local people wryly told us: *Welcome to Africa* - but of course, student protests and [other unexpected events can disrupt conferences anywhere](http://2015.djangocon.eu/news/boy-band-disrupts-djangocon-europe/) in the world. In a testament to the African capacity for *Getting Things Done When They Need To Be Done*, within just 45 minutes of receiving confirmation of the lockdown the organising committee had been able to find and book an alternative venue for the following day, complete with catering and AV equipment and support.
 
 Equally impressive was the reaction of the local community, with sponsors and other attendees rallying round with help, advice and offers of equipment.
 
@@ -239,7 +239,7 @@ Sponsors also included [Wildfish](http://wildfish.com/) in the UK, [Praekelt](ht
 
 Our organisers and volunteers worked tirelessly before and during the event, and contributed a great deal of time and effort to it.
 
-Finally, we'd also like to thank our attendees for their enthusiastic participation, not least those who travelled long distances (36 hours by bus, in the case of our attendees from Zimbabwe - to be there - that's commitment).
+Finally, we'd also like to thank our attendees for their enthusiastic participation, not least those who travelled long distances (36 hours by bus, in the case of our attendees from Zimbabwe - that's commitment) to be there.
 
 PyCon Namibia 2017
 ==================
