@@ -26,10 +26,20 @@ rows3:
 - column_width: 6
   widgets:
     - text: "Jessica & Vincent at NBC"
-      image: NBC-radio.jpg
+      image: /NBC-radio.jpg
 
     - text: "PyCon Namibia on TV"
       image: /NBC-tv.jpg
+
+rows4:
+- column_width: 6
+  widgets:
+    - text: "Workshops - Raspberry PiLab"
+      image: /39-Workshops.jpg
+
+    - text: "Workshops - Raspberry PiLab"
+      image: /40-Workshops.jpg
+
 ---
 
 Some figures
@@ -104,6 +114,45 @@ Thanks to the support of Cardiff University's [Phoenix Project](http://www.cardi
 Our PiLab of pre-configured machines, with appropriate software already installed for the workshops and tutorials, turned out to be an invaluable resource. For many individuals, lack of access to *suitable* computer systems is as much of a barrier to participation in open-source development as a lack of resources in the first place.
 
 At the end of the conference batches of the Raspberry Pis were handed over to new custodians, to be used for future teaching workshops, learning, experimentation and exploration. The recipients included the department of **Computer Science at UNAM**, **PyNam** (the Python Namibia Society), **PyZim** (Python Zimbabwe) and numerous individual attendees in the Namibian Python community, amongst them several Namibian high-school pupils who attended the conference.
+
+{% for row in page.rows4 %}
+  <div class="row t60">
+
+    {% for widget in row.widgets %}
+
+      <div class="medium-{{ row.column_width }} columns frontpage-widget">
+      	{% capture widget_url %}{% if widget.url contains 'http' %}{{ widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ widget.url }}{% endif %}{% endcapture %}
+
+      	{% if widget.url %}
+      		<a href="{{ widget_url }}">
+      			{% if widget.image %}
+      				{%comment%}TODO lazy loading{%endcomment%}
+      				{%comment%}<img class="lazy" data-src="{{ site.urlimg }}{{ widget.image }}" width="100%" alt="" />{%endcomment%}
+      				{%comment%}<noscript>{%endcomment%}
+      					<img src="{{ site.urlimg }}{{ widget.image }}" width="100%" alt="" />
+      				{%comment%}</noscript>{%endcomment%}
+      			{% endif %}
+      			{% if widget.video %}{{ widget.video }}{% endif %}
+      		</a>
+      	{% else %}
+      			{% if widget.image %}
+      				{%comment%}TODO lazy loading{%endcomment%}
+      				{%comment%}<img class="lazy" data-src="{{ site.urlimg }}{{ widget.image }}" width="100%" alt="" />{%endcomment%}
+      				{%comment%}<noscript>{%endcomment%}
+      					<img src="{{ site.urlimg }}{{ widget.image }}" width="100%" alt="" />
+      				{%comment%}</noscript>{%endcomment%}
+      			{% endif %}
+      	{% endif %}
+
+      	<h2 class="font-size-h3 t10">{{ widget.title }}</h2>
+      	<p>{{ widget.text }}</p>
+      	{% if widget.url %}
+      	  <p><a class="button tiny radius" href="{% if widget.url contains 'http' %}{{ widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+{% endfor %}
 
 Django Girls
 ============
