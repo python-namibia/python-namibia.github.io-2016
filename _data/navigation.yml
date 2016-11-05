@@ -20,15 +20,6 @@
   url: "/programme/"
   side: left
 
-- title: Sponsorship
-  url: "/sponsorship/"
-  side: left
-  dropdown:
-
-  - title: Supporters
-    url: "/supporters/"
-    side: left
-
 - title: Take part
   url: "/take-part/"
   side: left
