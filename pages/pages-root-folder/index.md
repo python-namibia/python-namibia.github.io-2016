@@ -1,17 +1,7 @@
 ---
 layout: supporters
-teaser: PyCon Namibia 2016 took place from the 25th-29th January, at the University of Namibia,
-    		Windhoek for five days of talks, workshops and collaboration. The event was supported by the <a href="http://www.cardiff.ac.uk/phoenix-project">Phoenix Project</a>, an initiative of <a
-    		href="http://www.cardiff.ac.uk/">Cardiff University</a> and the <a
-    		href="http://www.unam.na/">University of Namibia</a>, and was the fruit of a collaboration
-    		between the two Universities and the international Python community.
-rows:
-- column_width: 12
-  widgets:
-    - title: "This was PyCon Namibia"
-      url: '/this-was-pycon-namibia'
-      image: /queue2.jpg
-      text: "A look back at 2016's successful PyCon Namibia."
+teaser: PyCon Namibia 2017 will take place from the 20th-24th February in
+Windhoek.
 
 permalink: /index.html
 ---
