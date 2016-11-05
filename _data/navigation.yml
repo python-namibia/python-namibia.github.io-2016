@@ -20,14 +20,6 @@
   url: "/programme/"
   side: left
 
-- title: Take part
-  url: "/take-part/"
-  side: left
-  dropdown:
-  - title: Call for Proposals
-    url: "/cfp/"
-    side: left
-
 - title: Code of Conduct
   url: "/code-of-conduct/"
   side: left
