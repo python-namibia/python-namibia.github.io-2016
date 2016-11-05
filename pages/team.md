@@ -20,10 +20,6 @@ Contact us by email: [pycon.namibia@gmail.com](mailto:pycon.namibia@gmail.com)
         <p>Chair of PyNam, the Python Namibia Society</p>
       </li>
       <li>
-        <strong>Maria Ntinda</strong>
-        <p>Lecturer, University of Namibia</p>
-      </li>
-      <li>
         <strong>Meinolf Simbenda</strong>
         <p>Lecturer, University of Namibia</p>
       </li>
