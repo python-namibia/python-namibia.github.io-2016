@@ -4,7 +4,11 @@ title: "Programme"
 permalink: "/programme/"
 ---
 
-<h2>On Thursday, talks will be held at UNAM.</h2>
+<p>The 2017 programme will appear!</p>
+
+
+
+<h2>Here is the programme from 2016</h2>
 
 
 {% assign schedule = site.schedule | sort: 'date' %}
