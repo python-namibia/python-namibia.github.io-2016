@@ -3,8 +3,7 @@ layout: page
 title: "Travel to Namibia"
 permalink: "/travel/"
 ---
-2015's Python Namibia conference brought visitors who travelled from the UK, the Netherlands and
-the USA. For PyCon Namibia we expect more visitors from all over the world.
+For PyCon Namibia we expect more visitors from all over the world.
 
 ## Windhoek
 
